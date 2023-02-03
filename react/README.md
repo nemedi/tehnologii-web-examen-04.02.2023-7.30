@@ -1,16 +1,16 @@
 # Tematica: REACT
 
-# Avand urmatoarea aplicatie creata folosind `create-react-app`, modificati `Company` astfel incat:
-- aplicatia se deseneaza corect;
-- aplicatia deseneaza o lista de companii cu butoane de editare;
-- daca se da click pe butonul edit al unei aceasta trece in mod de editare;
-- daca in mod edit se da click pe butonul cancel al unui companii aceasta trece in mod view;
-- Se poate salva o companie, iar schimbarea se reflecta in lista de companii;
+# Având următoarea aplicație creată folosind `create-react-app`, modificați `Company` astfel încât:
+- Aplicația se desenează corect;
+- Aplicația desenează o listă de companii cu butoane de editare;
+- Dacă se dă click pe butonul edit al unei companii, aceasta trece în mod editare;
+- Dacă în mod editare se dă click pe butonul Cancel al unui companii, aceasta trece în mod vizualizare;
+- Se poate salva o companie, iar schimbarea se reflectă în lista de companii.
 
 # Instructiuni
 
-# Obiectiv : Modificati fisierele din directorul `src` pentru a satiface testele
+# Obiectiv: Modificați fișierele din directorul `src` pentru a satiface testele
 
-# Pasi pentru a rula testele
-1. Instalati dependentele ruland `npm i`
-2. Testati aplicatia ruland `npm test`
+# Pașii pentru a rula testele:
+1. Instalați dependențele rulând `npm i`
+2. Testați aplicația rulând `npm test`
